@@ -1,0 +1,63 @@
+name: muslim
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^4.3.2+2
+  shared_preferences: ^2.0.5
+  get: 4.3.8
+  shared_value: ^1.1.0
+
+  onesignal_flutter: ^3.0.0
+  firebase_core:
+  flip_card: 0.6.0
+  assets_audio_player:
+  mvc_pattern: 7.0.0
+  transparent_image: ^2.0.0
+  google_mobile_ads: ^0.13.0
+  rename:
+  url_launcher:
+#  intl_translation:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  image_path: "assets/images/screen-0.png"
+  android: true
+  ios: true
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/datadummy.json
+    - assets/images/
+    - assets/songs/
+    - assets/privacy_policy.txt
+    - assets/animalspics/.
+    - assets/sciencepics/.
+    - assets/naturepics/.
+    - assets/birthdaypics/.
+    - assets/christmaspics/.
+    - assets/foodpics/.
+    - assets/transportpics/.
+    - assets/travelpics/.
+    - assets/wildlifepics/.
+  fonts:
+
+    - family: Bubbleboddy
+      fonts:
+        - asset: assets/fonts/Arista 2.0 Alternate Regular.ttf
+

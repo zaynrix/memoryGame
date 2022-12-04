@@ -1,0 +1,306 @@
+{
+  "project_info": {
+    "project_number": "466817709988",
+    "project_id": "music-f3c75",
+    "storage_bucket": "music-f3c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:dac2906a60de79c2397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.Goraba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-0roog793brsk0eqrhl4u379f20sp8gjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.Goraba",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:0ec93885603bd773397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.a5rass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-55uqef5869hlhdkaun1m4jat5du6hpo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.a5rass",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:cfc35a3ab4d90511397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.bilalalahmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-6bh261t8ap7kqhb9dis7s53tvm1csmfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.bilalalahmad",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:8b9ef46bc79ed0e3397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-5m1ii14hvpu471jqt77ul93ro3b6b3u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.memorygame",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:b6f772411b2ff94e397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.muslim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-06akmanh6jung8pfb456mlk61bglet73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.muslim",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:35d41332ae6f4f5c397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.shareefMustafa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-c2i2sm4hio045ue3el3trapk79oknisq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.shareefMustafa",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:f89bb76a8b7f8949397331",
+        "android_client_info": {
+          "package_name": "com.devmusic.siilawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-9sv76qd9i38sfi71gqvd8136295k8o4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devmusic.siilawy",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466817709988:android:5754691688ceb091397331",
+        "android_client_info": {
+          "package_name": "com.yahyaabunada.rashareziq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466817709988-0c53bof7u4s9v3640hcmg6ekebgiip9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yahyaabunada.rashareziq",
+            "certificate_hash": "aa1f54b7be21ebe1f7b539aa187839c079c55ad1"
+          }
+        },
+        {
+          "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBRwXFyE_u6QrgBPiUsaHzm7xrQ7czkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466817709988-p3jkhg2m2aqjrmdbv41e6lb6auqoedk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
